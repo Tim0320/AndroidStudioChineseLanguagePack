@@ -1,28 +1,25 @@
-# AndroidStudio Chinese Language Pack
+# Android Studio Traditional Chinese Language Pack
 
-## 说明
+## 說明
 
-根据IDEA插件修改而来，兼容AndroidStudio版本。插件原地址：
+根據sollyu非官方版本插件修改成繁體中文用戶使用，可用於Android Studio。原網址：
 
-<https://plugins.jetbrains.com/plugin/index?xmlId=com.intellij.zh>
+<https://github.com/sollyu/AndroidStudioChineseLanguagePack>
 
 ## 使用
 
 ```txt
-第一步：AndroidStudio->设置->插件->从磁盘安装插件->下载的jar包->重启AndroidStudio
-第二步：自定义(Customize)->语言和地区(Language and Region)->语言(Language)->Chinese->重启AndroidStudio
-或者 设置->外观与行为->系统设置->Language and Region->语言(Language)->Chinese->重启AndroidStudio
+第一步：AndroidStudio->設定->外掛->從磁碟安裝外掛->下載的jar包->重啟AndroidStudio
+第二步：自定義(Customize)->語言和地區(Language and Region)->語言(Language)->Chinese->重啟AndroidStudio
+或者 設定->外觀與行為->系統設定->Language and Region->語言(Language)->Chinese->重啟AndroidStudio
 ```
 
 ![sshot-01.png](images/PixPin_2025-03-05_09-33-07.png)
 ![sshot-06.png](images/PixPin_2025-03-05_09-16-07.png)
 ![sshot-06.png](images/PixPin_2025-03-05_09-31-42.png)
 
-## 下载
 
-进入release下载对应的版本即可：[release](https://github.com/sollyu/AndroidStudioChineseLanguagePack/releases)
-
-## 预览
+## 預覽
 
 ![sshot-01.png](images/sshot-01.png)
 ![sshot-02.png](images/sshot-02.png)
@@ -31,9 +28,9 @@
 
 ## 其他
 
-> 因为语言包不需要更新的特别频繁并且本仓库只在Release更新，为了让大家知道这个不是一个死库，所以有了这句话。
+> 因為語言包不需要更新的特別頻繁並且本倉庫只在Release更新，爲了讓大家知道這個不是一個死庫，所以有了這句話。
 > 
-> 最后编辑时间：2025-03-05
+> 最後編輯時間：2025-05-18
 
 ## LICENSE
 
