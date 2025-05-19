@@ -6,6 +6,8 @@
 
 <https://github.com/sollyu/AndroidStudioChineseLanguagePack>
 
+翻譯可能帶有錯誤語意，但不影響使用
+
 ## 使用
 
 ```txt
