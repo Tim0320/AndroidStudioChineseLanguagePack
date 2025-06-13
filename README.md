@@ -23,10 +23,7 @@
 
 ## 預覽
 
-![sshot-01.png](images/sshot-01.png)
-![sshot-02.png](images/sshot-02.png)
-![sshot-03.png](images/sshot-03.png)
-![sshot-04.png](images/sshot-04.png)
+
 
 ## 其他
 
